@@ -1,3 +1,15 @@
-# BWBP Spring 2021
+## BWBP Submission
 
-This is the starter code for BWBP Spring 2021. We hope you have lots of fun with this and learn a ton! A ton!
+Name, email
+
+### 🖋  Problem Approaches and Progress
+
+Briefly describe what you were able to accomplish for BWBP Bug Hunt, and how you approached them.
+
+### 🤳 Screenshots (if applicable)
+
+Please attach a screenshot for each problem if possible.
+
+### 🐞 Bug Report
+
+If you ran into any bugs (outside of the bug hunt), explain how you solved them.
