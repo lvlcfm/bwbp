@@ -73,7 +73,6 @@ export async function getUser(user: UserRecord, cached = false): Promise<UserRec
   console.log('Fetching user');
 
   // FOR BWBP
-  // NOTE: Please do not alter anything here or you may be disqualified.
   const testUser: UserRecord = {
     admin: false,
     cohort: 'recJUdvrGp9a6SXKG',

@@ -20,7 +20,7 @@ interface LoginScreenProps {
  *
  * 1. If a user click's Log In without providing credentials it
  *    should alert the user of an incorrect username or password
- * 2. If a user click's Log i with providing incorrect credentials it should
+ * 2. If a user click's Log in with providing incorrect credentials it should
  *    also alert the suser of an incorrect username or password
  *
  * TIPS:
